@@ -1,1 +1,3 @@
-Bonjour, Git !
+<<<<<<< HEAD
+Bonjour, Git et univers !
+>>>>>>> fonctionnalite
